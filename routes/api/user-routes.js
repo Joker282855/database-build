@@ -10,13 +10,13 @@ const {
 
 // get all the post for the Users
 router
-    .router('/')
+    .route('/')
     .get(getAllUsers)
     .post(createUser);
 
 // set up for the routes for the get route, post route, and update route, 
 router 
-    .router('/:id')
+    .route('/:id')
     .get(getUsersById)
     .put(updateUser)
     .delete(deleteUser);
