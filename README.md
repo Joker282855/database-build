@@ -16,7 +16,7 @@ Revewing the first three lesson in module 18
 
 <a href="https://drive.google.com/file/d/1nFj8BjnATjgEmrjrMZ7teAjOZ69dEoTl/view">Link to Last Video</a>
 <a href="https://drive.google.com/file/d/1xprrmGGP5z9sCoeYIYPJ4WzK0r_CFRNw/view">Link to Second Video</a>
-<a href="https://drive.google.com/file/d/1paGjpyqOEXpFuysK9hb0Yp5Psgvw3-sM/view">Link to First Vide0</a>
+<a href="https://drive.google.com/file/d/1paGjpyqOEXpFuysK9hb0Yp5Psgvw3-sM/view">Link to First Video</a>
 
 ## Contributors
 Joshua Jackson
